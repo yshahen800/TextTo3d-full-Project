@@ -14,7 +14,7 @@ This project aims to demonstrate the process of converting a 2D image into a 3D 
 ## Technologies Used
 
 - **Python**: The primary programming language for data processing and model execution.
-- **stablediffuison**: for create 2d image from promottext
+- **stablediffuison**: for create 2d image from promot text
 - **Clip**: for test the score of promot and 2 image
 - **Open3D**: Used for creating, processing, and visualizing 3D point clouds and meshes.
 - **Hugging Face**: For using pre-trained depth estimation models.
